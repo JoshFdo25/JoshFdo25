@@ -25,85 +25,26 @@
 
 # 💻 Tech Stack
 
-### 📱 Mobile Development
+<div align="center">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio"/>
-</p>
+<!-- Main Skill Icons -->
+<img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,vue,java,python,tensorflow&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=tailwind,js,nodejs,firebase,docker,kubernetes,aws,mongodb,postgresql,sqlite,git,github,vscode,idea,postman&theme=dark" />
 
-**Building cross-platform mobile applications with Flutter, responsive UI design, Firebase integration, and Android development.**
+<br/>
 
----
+<!-- Domain Badges -->
+<img src="https://img.shields.io/badge/Livewire-FF2D20?style=flat-square"/>
+<img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square"/>
+<img src="https://img.shields.io/badge/XGBoost-006400?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square"/>
+<img src="https://img.shields.io/badge/Clean_Architecture-00599C?style=flat-square"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square"/>
 
-### 🌐 Web Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,php,vue,tailwind,js,nodejs"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Livewire-FF2D20?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge"/>
-</p>
-
-**Developing full-stack web applications, REST APIs, and modern responsive interfaces.**
-
----
-
-### 🤖 AI & Machine Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/XGBoost-006400?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge"/>
-</p>
-
-**Developing on-device machine learning models, activity recognition systems, and recommendation engines.**
-
----
-
-### ☕ Software Engineering
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,gradle,maven"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Clean_Architecture-00599C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge"/>
-</p>
-
-**Building maintainable enterprise applications using modern software engineering principles.**
-
----
-
-### 🗄️ Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite"/>
-</p>
-
----
-
-### ☁️ DevOps & Cloud
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws"/>
-</p>
-
----
-
-### 🛠️ Development Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman"/>
-</p>
+</div>
 
 ---
 
